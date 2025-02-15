@@ -1,0 +1,1 @@
+function getMyBalance() public view returns (uint256) {  return address(this).balance; }
